@@ -1,0 +1,9 @@
+type: hyperskill
+title: Simple Chatty Bot
+language: English
+summary: This short code challenge can help the local zoo look after its denizens. 
+         You will create a tool for monitoring animals and their status.
+programming_language: Python
+content:
+- Zookeeper
+mode: Study
